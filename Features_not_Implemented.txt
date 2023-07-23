@@ -1,0 +1,11 @@
+The following are the features that I have not implemented-
+
+1)Arrange:
+    Drag and Drop: Users can reorder tasks and subtasks using drag and drop.
+    Within Tasks: Users can rearrange tasks within the same level.
+    Within Subtasks: Users can rearrange subtasks under the same main task.
+2)Activity Logs: Users can view logs of task-related activities. 
+3)Tags: Users can add tags to tasks for easy identification and grouping. 
+4)Sorting: Users can sort the tasks based on due date, priority, etc.
+5)Reminders: Users can set reminders for important tasks.I have actually written the code for Reminders but it is somehow not working properly.
+
